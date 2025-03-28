@@ -1,0 +1,524 @@
+<Config>
+    <AFConfig>
+        <AFServer>CLSG2VMWIP1001</AFServer>
+        <AFUser>enelint\zar_AFAdmin</AFUser>
+        <AFPassword>Z$5mrza9tz</AFPassword>
+        <AFDatabase>Tag Check App</AFDatabase>
+    </AFConfig>
+    <TagLists>
+		<TagList>
+			<PIDAServer>CLSG2HX2VDA1001</PIDAServer>
+			<Name>input_list_DQ_Hydro.csv</Name>
+			<OutputResultFile>Output_list_DQ_Hydro_Results.csv</OutputResultFile>
+			<AFOutputElement>DQ Hydro</AFOutputElement>
+        </TagList>
+		<TagList>
+			<PIDAServer>e9aawgplia00.enelint.global</PIDAServer>
+			<Name>input_list_AWS01.csv</Name>
+			<OutputResultFile>Output_list_AWS01_Results.csv</OutputResultFile>
+			<AFOutputElement>AWS 01</AFOutputElement>
+        </TagList>
+		<TagList>
+			<PIDAServer>e9aawgplia00.enelint.global</PIDAServer>
+			<Name>input_list_AWS02.csv</Name>
+			<OutputResultFile>Output_list_AWS02_Results.csv</OutputResultFile>
+			<AFOutputElement>AWS 02</AFOutputElement>
+        </TagList>
+		<TagList>
+			<PIDAServer>e9aawgplia00.enelint.global</PIDAServer>
+			<Name>input_list_AWS03.csv</Name>
+			<OutputResultFile>Output_list_AWS03_Results.csv</OutputResultFile>
+			<AFOutputElement>AWS 03</AFOutputElement>
+        </TagList>
+		<TagList>
+			<PIDAServer>e9aawgplia00.enelint.global</PIDAServer>
+			<Name>input_list_AWS04.csv</Name>
+			<OutputResultFile>Output_list_AWS04_Results.csv</OutputResultFile>
+			<AFOutputElement>AWS 04</AFOutputElement>
+        </TagList>
+		<TagList>
+			<PIDAServer>e9aawgplia00.enelint.global</PIDAServer>
+			<Name>input_list_AWS05.csv</Name>
+			<OutputResultFile>Output_list_AWS05_Results.csv</OutputResultFile>
+			<AFOutputElement>AWS 05</AFOutputElement>
+        </TagList>
+		<TagList>
+			<PIDAServer>e9aawgplia00.enelint.global</PIDAServer>
+			<Name>input_list_AWS06.csv</Name>
+			<OutputResultFile>Output_list_AWS06_Results.csv</OutputResultFile>
+			<AFOutputElement>AWS 06</AFOutputElement>
+        </TagList>
+		<TagList>
+			<PIDAServer>e9aawgplia00.enelint.global</PIDAServer>
+			<Name>input_list_AWS07.csv</Name>
+			<OutputResultFile>Output_list_AWS07_Results.csv</OutputResultFile>
+			<AFOutputElement>AWS 07</AFOutputElement>
+        </TagList>
+		<TagList>
+			<PIDAServer>e9aawgplia00.enelint.global</PIDAServer>
+			<Name>input_list_AWS08.csv</Name>
+			<OutputResultFile>Output_list_AWS08_Results.csv</OutputResultFile>
+			<AFOutputElement>AWS 08</AFOutputElement>
+        </TagList>
+		<TagList>
+			<PIDAServer>e9aawgplia00.enelint.global</PIDAServer>
+			<Name>input_list_AWS09.csv</Name>
+			<OutputResultFile>Output_list_AWS09_Results.csv</OutputResultFile>
+			<AFOutputElement>AWS 09</AFOutputElement>
+        </TagList>
+		<TagList>
+			<PIDAServer>e9aawgplia00.enelint.global</PIDAServer>
+			<Name>input_list_AWS10.csv</Name>
+			<OutputResultFile>Output_list_AWS10_Results.csv</OutputResultFile>
+			<AFOutputElement>AWS 10</AFOutputElement>
+        </TagList>
+		<TagList>
+			<PIDAServer>e9aawgplia00.enelint.global</PIDAServer>
+			<Name>input_list_AWS11.csv</Name>
+			<OutputResultFile>Output_list_AWS11_Results.csv</OutputResultFile>
+			<AFOutputElement>AWS 11</AFOutputElement>
+        </TagList>
+		<TagList>
+			<PIDAServer>e9aawgplia00.enelint.global</PIDAServer>
+			<Name>input_list_AWS12.csv</Name>
+			<OutputResultFile>Output_list_AWS12_Results.csv</OutputResultFile>
+			<AFOutputElement>AWS 12</AFOutputElement>
+        </TagList>
+		<TagList>
+			<PIDAServer>e9aawgplia00.enelint.global</PIDAServer>
+			<Name>input_list_AWS13.csv</Name>
+			<OutputResultFile>Output_list_AWS13_Results.csv</OutputResultFile>
+			<AFOutputElement>AWS 13</AFOutputElement>
+        </TagList>
+		<TagList>
+			<PIDAServer>e9aawgplia00.enelint.global</PIDAServer>
+			<Name>input_list_AWS14.csv</Name>
+			<OutputResultFile>Output_list_AWS14_Results.csv</OutputResultFile>
+			<AFOutputElement>AWS 14</AFOutputElement>
+        </TagList>
+		<TagList>
+			<PIDAServer>e9aawgplia00.enelint.global</PIDAServer>
+			<Name>input_list_AWS15.csv</Name>
+			<OutputResultFile>Output_list_AWS15_Results.csv</OutputResultFile>
+			<AFOutputElement>AWS 15</AFOutputElement>
+        </TagList>
+		<TagList>
+			<PIDAServer>e9aawgplia00.enelint.global</PIDAServer>
+			<Name>input_list_AWS16.csv</Name>
+			<OutputResultFile>Output_list_AWS16_Results.csv</OutputResultFile>
+			<AFOutputElement>AWS 16</AFOutputElement>
+        </TagList>		
+		<TagList>
+			<PIDAServer>e9aawgplia00.enelint.global</PIDAServer>
+			<Name>input_list_AWS17.csv</Name>
+			<OutputResultFile>Output_list_AWS17_Results.csv</OutputResultFile>
+			<AFOutputElement>AWS 17</AFOutputElement>
+        </TagList>		
+		<TagList>
+			<PIDAServer>e9aawgplia00.enelint.global</PIDAServer>
+			<Name>input_list_AWS18.csv</Name>
+			<OutputResultFile>Output_list_AWS18_Results.csv</OutputResultFile>
+			<AFOutputElement>AWS 18</AFOutputElement>
+        </TagList>		
+		<TagList>
+			<PIDAServer>CLSG2HX2VDA1001</PIDAServer>
+			<Name>input_list_Don_Humberto.csv</Name>
+			<OutputResultFile>Output_list_Don_Humberto_Results.csv</OutputResultFile>
+			<AFOutputElement>Don_Humberto</AFOutputElement>
+        </TagList>
+		<TagList>
+			<PIDAServer>PISERVIDOR</PIDAServer>
+			<Name>input_list_Atacama.csv</Name>
+			<OutputResultFile>Output_list_Atacama_Results.csv</OutputResultFile>
+			<AFOutputElement>Atacama</AFOutputElement>
+        </TagList>
+				<TagList>
+			<PIDAServer>CHLENDQUI1003</PIDAServer>
+			<Name>input_list_Quintero.csv</Name>
+			<OutputResultFile>Output_list_Quintero_Results.csv</OutputResultFile>
+			<AFOutputElement>Quintero</AFOutputElement>
+        </TagList> 
+		<TagList>
+			<PIDAServer>CHLENDBOC1002</PIDAServer>
+			<Name>input_list_Bocamina.csv</Name>
+			<OutputResultFile>Output_list_Bocamina_Results.csv</OutputResultFile>
+			<AFOutputElement>Bocamina</AFOutputElement>
+        </TagList>        
+		<TagList>
+	    <PIDAServer>CHLENDHUA1001</PIDAServer>
+            <Name>input_list_Huasco.csv</Name>
+			<OutputResultFile>Output_list_Huasco_Results.csv</OutputResultFile>
+            <AFOutputElement>Huasco</AFOutputElement>
+        </TagList>
+		<TagList>
+            <PIDAServer>CHLENDSIHA1003</PIDAServer>
+            <Name>input_list_SanIsidro.csv</Name>
+			<OutputResultFile>Output_list_SanIsidro_Results.csv</OutputResultFile>
+            <AFOutputElement>San Isidro</AFOutputElement>
+        </TagList>
+		<TagList>
+            <PIDAServer>CHLENDTAL1001</PIDAServer>
+            <Name>input_list_Taltal.csv</Name>
+			<OutputResultFile>Output_list_Taltal_Results.csv</OutputResultFile>
+            <AFOutputElement>Taltal</AFOutputElement>
+        </TagList>
+		<TagList>
+            <PIDAServer>CHLENDTAR4001</PIDAServer>
+            <Name>input_list_Tarapaca.csv</Name>
+			<OutputResultFile>Output_list_Tarapaca_Results.csv</OutputResultFile>
+            <AFOutputElement>Tarapaca</AFOutputElement>
+        </TagList>
+		<TagList>
+            <PIDAServer>CLHPEHVMDAS01.enelint.global</PIDAServer>
+            <Name>input_list_Pehuenche_Bently_S1.csv</Name>
+			<OutputResultFile>Output_list_Pehuenche_Bently_S1_Results.csv</OutputResultFile>
+            <AFOutputElement>Pehuenche Bently System1</AFOutputElement>
+        </TagList>
+		<TagList>
+            <PIDAServer>CLHPEHVMDAS01.enelint.global</PIDAServer>
+            <Name>input_list_Pehuenche.csv</Name>
+			<OutputResultFile>Output_list_Pehuenche_Results.csv</OutputResultFile>
+            <AFOutputElement>Pehuenche</AFOutputElement>
+        </TagList>
+		<TagList>
+            <PIDAServer>CLSG2HX2VDA1001</PIDAServer>
+            <Name>input_list_Emaintenance_Maule.csv</Name>
+			<OutputResultFile>Output_list_Emaintenance_Maule_Results.csv</OutputResultFile>
+            <AFOutputElement>Emaintenance Maule</AFOutputElement>
+        </TagList>
+		
+		<TagList>
+            <PIDAServer>CLSG2HX2VDA1001</PIDAServer>
+            <Name>input_list_SolDeLila.csv</Name>
+			<OutputResultFile>Output_list_SolDeLila_Results.csv</OutputResultFile>
+            <AFOutputElement>SolDeLila</AFOutputElement>
+        </TagList>
+		
+		<TagList>
+            <PIDAServer>CLHCIPVMDAS01.enelint.global</PIDAServer>
+            <Name>input_list_Cipreses.csv</Name>
+			<OutputResultFile>Output_list_Cipreses_Results.csv</OutputResultFile>
+            <AFOutputElement>Cipreses</AFOutputElement>
+        </TagList>
+		<TagList>
+            <PIDAServer>CHLENDRAP1002.enelint.global</PIDAServer>
+            <Name>input_list_Rapel.csv</Name>
+			<OutputResultFile>Output_list_Rapel_Results.csv</OutputResultFile>
+            <AFOutputElement>Rapel</AFOutputElement>
+        </TagList>
+		<TagList>
+            <PIDAServer>CLHANTVMDAS01.enelint.global</PIDAServer>
+            <Name>input_list_Laja.csv</Name>
+			<OutputResultFile>Output_list_Laja_Results.csv</OutputResultFile>
+            <AFOutputElement>Laja</AFOutputElement>
+        </TagList>
+		<TagList>
+            <PIDAServer>CLHSAUVMDAS01</PIDAServer>
+            <Name>input_list_Sauzal.csv</Name>
+			<OutputResultFile>Output_list_Sauzal_Results.csv</OutputResultFile>
+            <AFOutputElement>Sauzal</AFOutputElement>
+        </TagList>
+		<TagList>
+            <PIDAServer>CLHPANVMDAS01.enelint.global</PIDAServer>
+            <Name>input_list_Biobio.csv</Name>
+			<OutputResultFile>Output_list_Biobio_Results.csv</OutputResultFile>
+            <AFOutputElement>Biobio</AFOutputElement>
+        </TagList>
+		<TagList>
+            <PIDAServer>CLSG2HX2VDA1001</PIDAServer>
+            <Name>input_list_LosMolles.csv</Name>
+			<OutputResultFile>Output_list_LosMolles_Results.csv</OutputResultFile>
+            <AFOutputElement>Los Molles</AFOutputElement>
+        </TagList>
+		<TagList>
+            <PIDAServer>CLSG2HX2VDA1001</PIDAServer>
+            <Name>input_list_Azabache.csv</Name>
+			<OutputResultFile>Output_list_Azabache_Results.csv</OutputResultFile>
+            <AFOutputElement>Azabache</AFOutputElement>
+        </TagList>
+		<TagList>
+            <PIDAServer>CLSG2HX2VDA1001</PIDAServer>
+            <Name>input_list_CamposDelSol.csv</Name>
+			<OutputResultFile>Output_list_CamposDelSol_Results.csv</OutputResultFile>
+            <AFOutputElement>Campos del Sol</AFOutputElement>
+        </TagList>
+		<TagList>
+            <PIDAServer>CLSG2HX2VDA1001</PIDAServer>
+            <Name>input_list_Caracoles.csv</Name>
+			<OutputResultFile>Output_list_Caracoles_Results.csv</OutputResultFile>
+            <AFOutputElement>Caracoles</AFOutputElement>
+        </TagList>
+		<TagList>
+            <PIDAServer>CLSG2HX2VDA1001</PIDAServer>
+            <Name>input_list_Coinco.csv</Name>
+			<OutputResultFile>Output_list_Coinco_Results.csv</OutputResultFile>
+            <AFOutputElement>Coinco</AFOutputElement>
+        </TagList>
+		<TagList>
+            <PIDAServer>CLSG2HX2VDA1001</PIDAServer>
+            <Name>input_list_Piduco.csv</Name>
+			<OutputResultFile>Output_list_Piduco_Results.csv</OutputResultFile>
+            <AFOutputElement>Piduco</AFOutputElement>
+        </TagList>
+		<TagList>
+            <PIDAServer>CLSG2HX2VDA1001</PIDAServer>
+            <Name>input_list_Rinconada.csv</Name>
+			<OutputResultFile>Output_list_Rinconada_Results.csv</OutputResultFile>
+            <AFOutputElement>Rinconada</AFOutputElement>
+        </TagList>
+		<TagList>
+            <PIDAServer>CLSG2HX2VDA1001</PIDAServer>
+            <Name>input_list_DonRodrigo.csv</Name>
+			<OutputResultFile>Output_list_DonRodrigo_Results.csv</OutputResultFile>
+            <AFOutputElement>Don Rodrigo</AFOutputElement>
+        </TagList>
+		<TagList>
+            <PIDAServer>CLSG2HX2VDA1001</PIDAServer>
+            <Name>input_list_FinisTerrae.csv</Name>
+			<OutputResultFile>Output_list_FinisTerrae_Results.csv</OutputResultFile>
+            <AFOutputElement>Finis Terrae</AFOutputElement>
+        </TagList>
+		<TagList>
+            <PIDAServer>CLSG2HX2VDA1001</PIDAServer>
+            <Name>input_list_FinisTerrae_Extension.csv</Name>
+			<OutputResultFile>Output_list_FinisTerrae_Extension_Results.csv</OutputResultFile>
+            <AFOutputElement>Finis Terrae Extension</AFOutputElement>
+        </TagList>
+		<TagList>
+            <PIDAServer>CLSG2HX2VDA1001</PIDAServer>
+            <Name>input_list_FinisTerrae_III.csv</Name>
+			<OutputResultFile>Output_list_FinisTerrae_III_Results.csv</OutputResultFile>
+            <AFOutputElement>Finis Terrae III</AFOutputElement>
+        </TagList>
+		<TagList>
+            <PIDAServer>CLSG2HX2VDA1001</PIDAServer>
+            <Name>input_list_Chañares.csv</Name>
+			<OutputResultFile>Output_list_Chañares_Results.csv</OutputResultFile>
+            <AFOutputElement>Chañares</AFOutputElement>
+        </TagList>
+		<TagList>
+            <PIDAServer>CLSG2HX2VDA1001</PIDAServer>
+            <Name>input_list_Lalackama.csv</Name>
+			<OutputResultFile>Output_list_Lalackama_Results.csv</OutputResultFile>
+            <AFOutputElement>Lalackama</AFOutputElement>
+        </TagList>
+		<TagList>
+            <PIDAServer>CLSG2HX2VDA1001</PIDAServer>
+            <Name>input_list_Renaico_I.csv</Name>
+			<OutputResultFile>Output_list_Renaico_I_Results.csv</OutputResultFile>
+            <AFOutputElement>Renaico I</AFOutputElement>
+        </TagList>
+		<TagList>
+            <PIDAServer>CLSG2HX2VDA1001</PIDAServer>
+            <Name>input_list_Renaico_II.csv</Name>
+			<OutputResultFile>Output_list_Renaico_II_Results.csv</OutputResultFile>
+            <AFOutputElement>Renaico II</AFOutputElement>
+        </TagList>
+		<TagList>
+            <PIDAServer>CLSG2HX2VDA1001</PIDAServer>
+            <Name>input_list_Dadinco.csv</Name>
+			<OutputResultFile>Output_list_Dadinco_Results.csv</OutputResultFile>
+            <AFOutputElement>Dadinco</AFOutputElement>
+        </TagList>
+		<TagList>
+            <PIDAServer>CLSG2HX2VDA1001</PIDAServer>
+            <Name>input_list_Sharon.csv</Name>
+			<OutputResultFile>Output_list_Sharon_Results.csv</OutputResultFile>
+            <AFOutputElement>Sharon</AFOutputElement>
+        </TagList>
+		<TagList>
+            <PIDAServer>CLSG2HX2VDA1001</PIDAServer>
+            <Name>input_list_Guanchoi.csv</Name>
+			<OutputResultFile>Output_list_Guanchoi_Results.csv</OutputResultFile>
+            <AFOutputElement>Guanchoi</AFOutputElement>
+        </TagList>
+		<TagList>
+            <PIDAServer>CLSG2HX2VDA1001</PIDAServer>
+            <Name>input_list_ValleDelSol.csv</Name>
+			<OutputResultFile>Output_list_ValleDelSol_Results.csv</OutputResultFile>
+            <AFOutputElement>Valle del Sol</AFOutputElement>
+        </TagList>
+		<TagList>
+            <PIDAServer>CLSG2HX2VDA1001</PIDAServer>
+            <Name>input_list_LaSilla.csv</Name>
+			<OutputResultFile>Output_list_LaSilla_Results.csv</OutputResultFile>
+            <AFOutputElement>La Silla</AFOutputElement>
+        </TagList>
+		<TagList>
+            <PIDAServer>CLSG2HX2VDA1001</PIDAServer>
+            <Name>input_list_Talinay_I.csv</Name>
+			<OutputResultFile>Output_list_Talinay_I_Results.csv</OutputResultFile>
+            <AFOutputElement>Talinay I</AFOutputElement>
+        </TagList>
+		<TagList>
+            <PIDAServer>CLSG2HX2VDA1001</PIDAServer>
+            <Name>input_list_Talinay_II.csv</Name>
+			<OutputResultFile>Output_list_Talinay_II_Results.csv</OutputResultFile>
+            <AFOutputElement>Talinay II</AFOutputElement>
+        </TagList>
+		<TagList>
+            <PIDAServer>CLSG2HX2VDA1001</PIDAServer>
+            <Name>input_list_Canela_I.csv</Name>
+			<OutputResultFile>Output_list_Canela_I_Results.csv</OutputResultFile>
+            <AFOutputElement>Canela I</AFOutputElement>
+        </TagList>
+		<TagList>
+            <PIDAServer>CLSG2HX2VDA1001</PIDAServer>
+            <Name>input_list_Canela_II.csv</Name>
+				<OutputResultFile>Output_list_Canela_II_Results.csv</OutputResultFile>
+            <AFOutputElement>Canela II</AFOutputElement>
+        </TagList>
+		<TagList>
+            <PIDAServer>CLSG2HX2VDA1001</PIDAServer>
+            <Name>input_list_SierraGorda.csv</Name>
+			<OutputResultFile>Output_list_SierraGorda_Results.csv</OutputResultFile>
+            <AFOutputElement>Sierra Gorda</AFOutputElement>
+        </TagList>
+		<TagList>
+            <PIDAServer>CLSG2HX2VDA1001</PIDAServer>
+            <Name>input_list_ValleDeLosVientos.csv</Name>
+			<OutputResultFile>Output_list_ValleDeLosVientos_Results.csv</OutputResultFile>
+            <AFOutputElement>Valle de los Vientos</AFOutputElement>
+        </TagList>
+		<TagList>
+            <PIDAServer>CLSG2HX2VDA1001</PIDAServer>
+            <Name>input_list_LosBuenosAires.csv</Name>
+			<OutputResultFile>Output_list_LosBuenosAires_Results.csv</OutputResultFile>
+            <AFOutputElement>Los Buenos Aires</AFOutputElement>
+        </TagList>
+		<TagList>
+            <PIDAServer>CLSG2HX2VDA1001</PIDAServer>
+            <Name>input_list_Taltal_EGP.csv</Name>
+			<OutputResultFile>Output_list_Taltal_EGP_Results.csv</OutputResultFile>
+            <AFOutputElement>Taltal EGP</AFOutputElement>
+        </TagList>
+		<TagList>
+            <PIDAServer>CLRPMETSWSS01</PIDAServer>
+            <Name>input_list_PME.csv</Name>
+			<OutputResultFile>Output_list_PME_Results.csv</OutputResultFile>
+            <AFOutputElement>PME</AFOutputElement>
+        </TagList>
+		<TagList>
+            <PIDAServer>CLSG2VMCRM1001</PIDAServer>
+            <Name>input_list_Control_Room.csv</Name>
+			<OutputResultFile>Output_list_Control_Room_Results.csv</OutputResultFile>
+            <AFOutputElement>Control_Room</AFOutputElement>
+        </TagList>
+		<TagList>
+            <PIDAServer>CLSG2HX2VDA1001</PIDAServer>
+            <Name>input_list_La_Cabaña.csv</Name>
+			<OutputResultFile>Output_list_La_Cabaña_Results.csv</OutputResultFile>
+            <AFOutputElement>La Cabaña</AFOutputElement>
+        </TagList>
+		<TagList>
+            <PIDAServer>CLSG2HX2VDA1001</PIDAServer>
+            <Name>input_list_ElManzano.csv</Name>
+			<OutputResultFile>Output_list_ElManzano_Results.csv</OutputResultFile>
+            <AFOutputElement>El Manzano</AFOutputElement>
+        </TagList>
+		<TagList>
+            <PIDAServer>CLSG2HX2VDA1001</PIDAServer>
+            <Name>input_list_BESS_La_Cabaña.csv</Name>
+			<OutputResultFile>Output_list_BESS_La_Cabaña_Results.csv</OutputResultFile>
+            <AFOutputElement>Bess La Cabaña</AFOutputElement>
+        </TagList>
+		<TagList>
+            <PIDAServer>CLSG2HX2VDA1001</PIDAServer>
+            <Name>input_list_BESS_El_Manzano.csv</Name>
+			<OutputResultFile>Output_list_BESS_El_Manzano_Results.csv</OutputResultFile>
+            <AFOutputElement>Bess El Manzano</AFOutputElement>
+        </TagList>	
+
+		<TagList>
+            <PIDAServer>CLSG2HX2VDA1001</PIDAServer>
+            <Name>input_list_Bess_Don_Humberto.csv</Name>
+			<OutputResultFile>Output_list_Bess_Don_Humberto_Results.csv</OutputResultFile>
+            <AFOutputElement>Bess Don Humberto</AFOutputElement>
+        </TagList>	
+		
+		<TagList>
+            <PIDAServer>CLSG2HX2VDA1001</PIDAServer>
+            <Name>input_list_PMGMD_MORA.csv</Name>
+			<OutputResultFile>Output_list_Mora_Results.csv</OutputResultFile>
+            <AFOutputElement>Mora</AFOutputElement>
+        </TagList>
+		<TagList>
+            <PIDAServer>CLSG2HX2VDA1001</PIDAServer>
+            <Name>input_list_PGMD_PATAGUA.csv</Name>
+			<OutputResultFile>Output_list_Patagua_Results.csv</OutputResultFile>
+            <AFOutputElement>Patagua</AFOutputElement>
+        </TagList>
+		<TagList>
+            <PIDAServer>CLSG2HX2VDA1001</PIDAServer>
+            <Name>input_list_PGMD_CABIMAS.csv</Name>
+			<OutputResultFile>Output_list_Cabimas_Results.csv</OutputResultFile>
+            <AFOutputElement>Cabimas</AFOutputElement>
+        </TagList>
+		<TagList>
+            <PIDAServer>CLSG2HX2VDA1001</PIDAServer>
+            <Name>input_list_PGMD_GRANEROS.csv</Name>
+			<OutputResultFile>Output_list_Graneros_Results.csv</OutputResultFile>
+            <AFOutputElement>Graneros</AFOutputElement>
+        </TagList>
+		<TagList>
+            <PIDAServer>CLSG2HX2VDA1001</PIDAServer>
+            <Name>input_list_PGMD_MAITENCILLO.csv</Name>
+			<OutputResultFile>Output_list_Maitencillo_Results.csv</OutputResultFile>
+            <AFOutputElement>Maitencillo</AFOutputElement>
+        </TagList>	
+		<TagList>
+            <PIDAServer>CLSG2HX2VDA1001</PIDAServer>
+            <Name>input_list_LasSalinas.csv</Name>
+			<OutputResultFile>Output_list_LasSalinas_Results.csv</OutputResultFile>
+            <AFOutputElement>Las Salinas</AFOutputElement>
+        </TagList>		
+		<TagList>
+            <PIDAServer>PI-CTMA-S1</PIDAServer>
+            <Name>input_list_Malacas.csv</Name>
+			<OutputResultFile>Output_list_Malacas_Results.csv</OutputResultFile>
+            <AFOutputElement>Malacas</AFOutputElement>
+        </TagList>		
+		<TagList>
+            <PIDAServer>PI-CTMA-S1</PIDAServer>
+            <Name>input_list_Malacas-Timestamp.csv</Name>
+			<OutputResultFile>Output_list_Malacas-Timestamp_Results.csv</OutputResultFile>
+            <AFOutputElement>Malacas-Timestamp</AFOutputElement>
+        </TagList>		
+		<TagList>
+            <PIDAServer>CLSG2HX2VDA1001</PIDAServer>
+            <Name>input_list_SetPointReno.csv</Name>
+			<OutputResultFile>Output_list_SetPointReno_Results.csv</OutputResultFile>
+            <AFOutputElement>SetPointReno</AFOutputElement>
+        </TagList>
+		<TagList>
+            <PIDAServer>CLSG2HX2VDA1001</PIDAServer>
+            <Name>input_list_UFL_Pangue.csv</Name>
+			<OutputResultFile>Output_list_UFL_Pangue_Results.csv</OutputResultFile>
+            <AFOutputElement>UFL Pangue</AFOutputElement>
+        </TagList>
+		<TagList>
+            <PIDAServer>CLSG2HX2VDA1001</PIDAServer>
+            <Name>input_list_WMSRalco.csv</Name>
+			<OutputResultFile>Output_list_WMSRalco_Results.csv</OutputResultFile>
+            <AFOutputElement>WMS Ralco</AFOutputElement>
+        </TagList>
+		<TagList>
+            <PIDAServer>CLSG2HX2VDA1001</PIDAServer>
+            <Name>input_list_UFL_Rapel.csv</Name>
+			<OutputResultFile>Output_list_UFL_Rapel_Results.csv</OutputResultFile>
+            <AFOutputElement>UFL Rapel</AFOutputElement>
+        </TagList>
+		<TagList>
+            <PIDAServer>CLGCPAPMDAS01</PIDAServer>
+            <Name>input_list_CerroPabellon.csv</Name>
+			<OutputResultFile>Output_list_CerroPabellon_Results.csv</OutputResultFile>
+            <AFOutputElement>Cerro Pabellon</AFOutputElement>
+        </TagList>
+		<TagList>
+            <PIDAServer>CLSG2HX2VDA1001</PIDAServer>
+            <Name>input_list_DS53.csv</Name>
+			<OutputResultFile>Output_list_DS53_Results.csv</OutputResultFile>
+            <AFOutputElement>DS53</AFOutputElement>
+        </TagList>			
+    </TagLists>
+</Config>
